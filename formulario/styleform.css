@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+
+}
+
+
+#formulario{
+    background-color: rgb(158, 157, 161);
+    font-style: oblique;
+    font-size: 250%;
+}
+
+#cuerpo{
+    display: flex;
+    justify-content: center;
+}
